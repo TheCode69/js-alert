@@ -1,2 +1,1 @@
-# js-alert.
-...
+# js-alert
